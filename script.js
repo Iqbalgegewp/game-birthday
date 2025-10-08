@@ -618,13 +618,13 @@ function loadSpotifyPlaylist(playlistNumber) {
     const playlists = {
         1: {
             // Ganti dengan playlist pertama kamu
-            embedUrl: 'https://open.spotify.com/playlist/4wL4FsvoeiGHQPffCH5FFI?si=DV8ueohURDeBVdDfayBwcg&pi=q7sqtG3bSQuQ9',
+            embedUrl: 'https://open.spotify.com/embed/playlist/4wL4FsvoeiGHQPffCH5FFI?si=_6C2vzLmTSCmZWBvITNMwQ&pi=3-nMdoGbTmeOS',
             name: 'Birthday Special Mix',
             description: 'Lagu-lagu spesial untuk hari istimewa kamu ✨'
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/playlist/4Yh99VtQ0cO93Gc8Fh8mso?si=iqQ9ZOhwQDCxy3UboGLTfA&pi=RRLhXT3nRP-4Q',
+            embedUrl: 'https://open.spotify.com/embed/playlist/4Yh99VtQ0cO93Gc8Fh8mso?si=h0OicYcoTVuUx0CqJDHP5Q&pi=_jcLE4JnR66uz',
             name: 'Lagu Favoritmu jiaa🤭🤍',
             description: 'Your Favorit Song❤️'
         },
