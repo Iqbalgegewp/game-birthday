@@ -274,7 +274,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Cel,<br><br>Happy Birthday!<br><br>Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.<br><br>Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).<br><br>I love you so much! 💕`;
+            const fullMessage = `Hi Jiaa,<br><br>Happy Birthday!<br><br>Sayang, selamat ulang tahun ya…Di dunia ini mungkin banyak orang yang kenal kamu,tapi cuma satu yang benar-benar sayang kamu sepenuh hati — aku.Aku nggak butuh alasan buat tetap di sampingmu,cukup tahu kalau kamu ada, itu sudah cukup buat bahagiaku.<br><br>Semoga di hari spesialmu ini, kamu sadar…kalau cinta yang paling tulus itu sedang menatapmu sekarang —lewat kata-kata ini..<br><br>I love you so much! 💕`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
